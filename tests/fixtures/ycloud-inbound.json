@@ -1,0 +1,18 @@
+{
+  "id": "evt_example_001",
+  "type": "whatsapp.inbound_message.received",
+  "whatsappInboundMessage": {
+    "id": "wamid.HBgLMzQ2MDAwMDAwMDAVAgARGBEXAMPLE",
+    "from": "34600000000",
+    "to": "34611111111",
+    "timestamp": "1710000000",
+    "type": "text",
+    "text": {
+      "body": "Hola, quiero precio del pack basico"
+    },
+    "customerProfile": {
+      "name": "Ana"
+    },
+    "phoneNumberId": "PHONE_NUMBER_ID_CLIENT_A"
+  }
+}
