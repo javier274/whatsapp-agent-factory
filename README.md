@@ -61,3 +61,18 @@ docs/keys-checklist.md
 docs/constructor.md (pasos 0-10)
 
 Libs fallan claro si falta env; build lazy sin secretos.
+
+## Índice de documentación
+
+- [HERMES.md](HERMES.md) — cómo usar el repo en Hermes / Claude Code
+- [CLAUDE.md](CLAUDE.md) — instrucciones del constructor
+- [docs/ARQUITECTURA.md](docs/ARQUITECTURA.md) — 5 cajas + bases
+- [docs/MANUAL-OPERATIVO.md](docs/MANUAL-OPERATIVO.md) — pasos 0→10
+- [docs/constructor.md](docs/constructor.md) — resumen operativo
+- [docs/SEMAFORO-FICHA.md](docs/SEMAFORO-FICHA.md) — Rojo/Ámbar/Verde/Oro
+- [docs/keys-checklist.md](docs/keys-checklist.md) — claves
+- [docs/SOUL-constructor-hermes.md](docs/SOUL-constructor-hermes.md) — SOUL del Constructor
+- Entrevista v2: `docs/entrevista-profunda-v2-*.md`
+- Plantilla cliente: [docs/plantilla-agente-cliente-whatsapp.md](docs/plantilla-agente-cliente-whatsapp.md)
+- Ejemplo Closer Agencia: [docs/hermes-closer-agencia/](docs/hermes-closer-agencia/)
+

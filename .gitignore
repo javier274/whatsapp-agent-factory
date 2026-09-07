@@ -1,14 +1,27 @@
+# dependencies
+node_modules
 /node_modules
+
+# next
+.next
 /.next/
 /out/
 /build
+
+# env / secrets
+.env
+.env.local
+.env*.local
+!.env.example
+
+# typescript
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# misc
 .DS_Store
 *.pem
 *.log
-.env
-.env*.local
-!.env.example
-*.tsbuildinfo
 .vercel
 .idea
 .vscode

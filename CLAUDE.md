@@ -22,3 +22,12 @@ No inventes precios ni casos. No pegues secretos en archivos del repo.
 
 ## Stack fijo
 Vercel, Supabase, OpenRouter, YCloud. No sustituyas el diseño sin pedirlo.
+
+## Docs clave
+- docs/ARQUITECTURA.md
+- docs/MANUAL-OPERATIVO.md / docs/constructor.md
+- docs/SEMAFORO-FICHA.md
+- docs/SOUL-constructor-hermes.md
+- docs/entrevista-profunda-v2-*.md
+- docs/hermes-closer-agencia/ (ejemplo)
+- HERMES.md
